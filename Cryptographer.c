@@ -3,7 +3,6 @@
 #include<unistd.h>
 #include<stdlib.h>
 #include<conio.h>
-
 #define MAX 100
 
 void caesar();
